@@ -12,6 +12,10 @@
 | [Live Application (👆)](https://measureme-task.herokuapp.com/) |
 | ------ |  
 
+<p align="center">
+<img alt="GIF" src="https://github.com/krishdu/MeasureMe/blob/master/measure-me-gif-file-v1.gif?raw=true" width="800" height="400"/>
+</p>
+
 ```
 Measure Me
 ``` 
