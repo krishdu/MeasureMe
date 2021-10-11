@@ -1,6 +1,14 @@
 # NodeJs - Express JS - EJs
 
 > I had created this repository while I was learning Express Js
++ While building I learnt
+   1. Node templating
+      1. use Ejs as templating language
+   1. Ejs interpolation
+   1. How to pass data to templates
+   1. How to use express router
+   1. How to use local storage from npm   
+
 
 
 ```
